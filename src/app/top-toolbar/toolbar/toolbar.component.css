@@ -1,0 +1,43 @@
+.toolbar {
+  background-color: var(--primary-color);
+  height: 70px;
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 4rem;
+  margin-left: 4rem;
+}
+.nav right {
+  margin-right: 2rem;
+}
+
+a {
+  color: white;
+  margin-right: 4rem;
+  height: 2rem;
+}
+
+a:hover {
+  color: aquamarine;
+}
+
+.user-icon {
+  font-size: 2rem;
+  height: 2rem;
+  width: 2rem;
+}
+/* 
+.search-icon {
+  font-size: 2rem; 
+  font-weight: 400;
+  margin-right: 30px;
+  cursor: pointer;
+}  */
+
+/* .info-icon {
+  margin-right: 10px;
+  cursor: pointer;
+} */
